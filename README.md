@@ -1,1 +1,5 @@
-# Emotion_Distinguish
+# Affective-Computing
+
+# Author: 
+* SHIMIN TAN
+* TINGTING HUANG
